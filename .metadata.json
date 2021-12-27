@@ -1,0 +1,23 @@
+[
+  {
+    "package": "simmer",
+    "oncran": true
+  },
+  {
+    "package": "simmer.plot",
+    "oncran": true
+  },
+  {
+    "package": "simmer.bricks",
+    "oncran": true
+  },
+  {
+    "package": "simmer.optim"
+  },
+  {
+    "package": "simmer.json"
+  },
+  {
+    "package": "simmer.mon"
+  }
+]
