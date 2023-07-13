@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-simmer/universe
-	shallow = true
 	branch = HEAD
 [submodule "simmer"]
 	path = simmer
 	url = https://github.com/r-simmer/simmer
-	shallow = true
-	registered = true
 [submodule "simmer.plot"]
 	path = simmer.plot
 	url = https://github.com/r-simmer/simmer.plot
-	shallow = true
-	registered = true
 [submodule "simmer.bricks"]
 	path = simmer.bricks
 	url = https://github.com/r-simmer/simmer.bricks
-	shallow = true
-	registered = true
 [submodule "simmer.optim"]
 	path = simmer.optim
 	url = https://github.com/r-simmer/simmer.optim
-	shallow = true
-	registered = true
 [submodule "simmer.json"]
 	path = simmer.json
 	url = https://github.com/r-simmer/simmer.json
-	shallow = true
-	registered = true
 [submodule "simmer.mon"]
 	path = simmer.mon
 	url = https://github.com/r-simmer/simmer.mon
-	shallow = true
-	registered = true
