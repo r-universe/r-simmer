@@ -5,18 +5,18 @@
 [submodule "simmer"]
 	path = simmer
 	url = https://github.com/r-simmer/simmer
-[submodule "simmer.plot"]
-	path = simmer.plot
-	url = https://github.com/r-simmer/simmer.plot
 [submodule "simmer.bricks"]
 	path = simmer.bricks
 	url = https://github.com/r-simmer/simmer.bricks
-[submodule "simmer.optim"]
-	path = simmer.optim
-	url = https://github.com/r-simmer/simmer.optim
 [submodule "simmer.json"]
 	path = simmer.json
 	url = https://github.com/r-simmer/simmer.json
 [submodule "simmer.mon"]
 	path = simmer.mon
 	url = https://github.com/r-simmer/simmer.mon
+[submodule "simmer.optim"]
+	path = simmer.optim
+	url = https://github.com/r-simmer/simmer.optim
+[submodule "simmer.plot"]
+	path = simmer.plot
+	url = https://github.com/r-simmer/simmer.plot
