@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-simmer/universe
+	url = https://github.com/r-simmer/r-simmer.r-universe.dev
 	branch = HEAD
 [submodule "simmer"]
 	path = simmer
